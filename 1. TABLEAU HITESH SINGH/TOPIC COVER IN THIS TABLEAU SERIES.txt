@@ -1,0 +1,12 @@
+******************************************
+Topic Cover In this Tableau Series.
+******************************************
+1. Tableau- Introduction
+2. Data Preparation – Tableau Prep Builder
+3. Basic Data Visualization – Summary Tables, Bar Chart, Pie Chart , Scatter plot etc.
+4. Advance Data Viz – Dual Axis Chart, Customizing colors/labels/shape
+5. Data Management- Filter, Grouping, Alias etc.
+6. Working with multiple data sources-joining, Blending etc.
+7. Advance feature – Parameter , Sets, Context, Filters Action
+8. Sharing Your work- Dashboard, Tableau Server, User Security, Scheduling etc.
+9. Calculation – Formulas, Quick table, Calculation etc.
