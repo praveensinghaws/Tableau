@@ -1,0 +1,12 @@
+# Tableau workbook files
+*.twb
+*.twbx
+
+# Tableau data extracts
+*.hyper
+
+# Tableau temporary files
+*_temp/
+
+# Tableau log files
+logs/
